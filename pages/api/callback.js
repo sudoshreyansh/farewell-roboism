@@ -5,7 +5,8 @@ const TasksMap = {
     'Surya Prakash Mishra': 'https://youtu.be/FzG4uDgje3M',
     'Swaraj Jain': 'https://youtu.be/sONw3dihCRs',
     'Anshuman Tejaswi': 'https://youtube.com/shorts/afwSiJuiUzU?feature=share',
-    'CVSS Santosh': 'https://youtu.be/JALa8dhG6dA'
+    'CVSS Santosh': 'https://youtu.be/JALa8dhG6dA',
+    'Akansha Gupta': 'https://open.spotify.com/track/2bMTXRkkvNMVQJjBzXykIm?si=OuhCMQFeSHiOCLbFuk5DUA&dd=1'
 }
 
 
